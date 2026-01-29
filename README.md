@@ -106,3 +106,5 @@ Falhas críticas podem pagar milhares.”
 TECNOLOGIAS UTILIZADOS:
 - CHATGPT
 - ScreenAPP
+
+  LINK DO PODCAST : https://screenapp.io/app/v/tBDnAAJ_Ic
